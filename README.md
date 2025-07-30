@@ -3,12 +3,6 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atharvsonawale1) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvsonawale21@gmail.com)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=atharvsonawale&label=1054&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
----
-
 # 💻 Tech Stack
 
 ## Programming Languages
